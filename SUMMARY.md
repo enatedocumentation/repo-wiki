@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Build software better, together](README.md)
+* [enatedocumentation/repo-wiki](README.md)
+* [Test](test.md)
 
